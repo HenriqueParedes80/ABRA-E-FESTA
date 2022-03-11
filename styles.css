@@ -5,6 +5,8 @@ h1 {
    top:30px ;
 }
 
+
+
 *{ 
     margin: 0;
     padding: 0;
@@ -15,13 +17,9 @@ h1 {
 
     background-image:url( "./logosemfundo.png"); 
     background-size: cover;
-    height:100vh; 
-    border-radius: 10%;
+    height:160vh; 
+    border-radius: 20%;
     background-repeat: none;
-    height: 100vh;
-
-  
-    
     
 
 }
@@ -128,13 +126,12 @@ button{
 }
 #titulo-meio {
     font-size: 50px;
-    color: black;
+    color: mediumorchid;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 50px;
     font-family: Arial;
  
-
 }
 
 .card {

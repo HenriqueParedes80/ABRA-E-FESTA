@@ -25,7 +25,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/henrique-paredes-66171122b/"  target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/henrique-paredes-66171122b/"  target= "_blank" rel="noopener noreferrer">
         <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Henrique Paredes"/> <br>
         <sub>
           <b>Henrique Paredes </b>
@@ -35,7 +35,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
      
   </tr>
 </table>
- <a href="https://www.facebook.com/?ref=tn_tnmn" >
+ <a href="https://www.facebook.com/?ref=tn_tnmn" target= "_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 

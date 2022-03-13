@@ -35,6 +35,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
      
   </tr>
 </table>
-<a> https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white </a>
+<img src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 
 

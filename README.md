@@ -1,7 +1,7 @@
 # Abra, é Festa !
 
 
-<img src="./print abraefesta.png" alt="Abra e festa">
+<img src="./print abraefesta.png" width="200px" alt="Abra e festa">
 
 >Landing page inicial de empresa de decoração de festa infantil e serviços
 
@@ -26,9 +26,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Henrique Paredes"/> <br>
         <sub>
-          <b>Henrique Paredes <a href="https://www.linkedin.com/in/henrique-paredes-66171122b/" > </a> </b>
+          <b>Henrique Paredes </b>
         </sub>
       </a>
     </td align="center">

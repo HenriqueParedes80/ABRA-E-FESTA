@@ -35,6 +35,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
      
   </tr>
 </table>
-<img src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+ <a href="https://www.facebook.com/?ref=tn_tnmn">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
 

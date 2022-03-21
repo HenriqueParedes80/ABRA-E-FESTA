@@ -1,9 +1,9 @@
 # Abra, é Festa !
 
 
-<img src="./print abraefesta.png" width="300px" alt="Abra e festa">
+<img src="./print tela abraefesta.png " width="300px" alt="Abra e festa">
 
->Landing page inicial de empresa de decoração de festa infantil e serviços
+# Landing Page inicial de empresa de decoração de festa infantil e serviços
 
 ### Ajustes e melhorias
 

@@ -18,7 +18,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 
 
-## 🤝 Colaboradores
+## 🤝 Colaborador
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
@@ -26,7 +26,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href= "#" target = "_blank" rel="noopener noreferrer">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Henrique Paredes"/> <br>
+        <img src="./foto henrique.png" width="100px;" alt="Foto do Henrique Paredes"/> <br>
         <sub>
           <b>Henrique Paredes </b>
         </sub>
